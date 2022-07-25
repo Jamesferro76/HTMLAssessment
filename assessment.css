@@ -10,3 +10,7 @@ thead{
   color: red;
   font-weight: bold;
 }
+
+ul li{
+  list-style-type: square;
+}
