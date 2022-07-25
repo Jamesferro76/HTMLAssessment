@@ -19,3 +19,8 @@ a:hover{
   background-color: yellow;
   text-decoration: none;
 }
+
+blockquote{
+  background-color: black;
+  color: lightpink;
+}
